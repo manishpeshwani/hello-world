@@ -1,1 +1,1 @@
-Manish loves github a lot.
+Manish loves github very much.
